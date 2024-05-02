@@ -1,17 +1,20 @@
 # Image gallery
 
-> A simple
+> A simple website allows the user to search for movies.
 
 ## Table of contents
 
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
+- [Image gallery](#image-gallery)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Inspiration](#inspiration)
+  - [Contact](#contact)
 
 ## General info
 
@@ -20,7 +23,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./assets/Capture%20d'écran%202024-05-02%20022122.png)
 
 ## Technologies
 
